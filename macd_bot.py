@@ -5,7 +5,7 @@ import numpy as np
 import time
 
 # ✅ Bot Settings
-TOKEN = "7759691958:AAFj2QOC4OsoO1ffCjs1biwP3UMnYkYxQPk"  # Insert your bot token here
+TOKEN = ""  # Insert your bot token here
 bot = telebot.TeleBot(TOKEN)
 
 # ✅ Exchange Settings
