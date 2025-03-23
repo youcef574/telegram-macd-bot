@@ -1,0 +1,4 @@
+telebot
+ccxt
+pandas
+numpy
